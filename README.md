@@ -1,0 +1,1 @@
+This project is my upgraded version of old tram departures project, this time developed in java. Program reads data from .csv files and suggests nearest departures. This project is also features Graphical User Interface
